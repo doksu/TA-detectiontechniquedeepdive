@@ -1,0 +1,12 @@
+user,action,count
+A,success,1
+A,failure,2
+A,success,1
+B,success,1
+A,failure,537
+A,failure,601
+A,failure,608
+A,failure,607
+A,failure,602
+A,success,1
+A,success,1
